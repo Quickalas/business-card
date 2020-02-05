@@ -1,8 +1,0 @@
-{
-std::cout<<"Welcome to ITSE 1307!\n";
-//Taco Bell
-//2106959105
-//12360 Leslie Rd, Helotes, TX 78023
-//https://www.tacobell.com/
-//tellthebell@yahoo.com
-}
